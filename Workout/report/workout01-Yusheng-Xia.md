@@ -1,0 +1,57 @@
+Workout 1
+================
+Yusheng Xia
+
+**Are the Golden State Warriors More of a Threat from Inside or Outside the Three Point Line?**
+-----------------------------------------------------------------------------------------------
+
+It is the year of 2016-2017 and once again the Golden State Warriors are the clear favorites to win the NBA Championships. Fresh off a massive campaign that saw the team set a NBA record 73 season win, the Warriors added former MVP Kevin Durant to an already stacked lineup and are more dangerous than ever. The splash brothers obtain an elite shooter and scorer, one who has always been near the prestigious 50-40-90 line. While Durant is a good three-point shooter, he is also well-known for his proficiency in the midrange, where he is able to use his height and smooth shooting stroke to rise up over his defenders over and over again and shoot an almost unguardable midrange jumper. The table below of the four all star candidates on the team and former final's MVP Andre Iguodala shows just how remarkable of a threat Durant is, as he is a pure scorer who does not sacrifice efficiency for volume.
+
+    ## # A tibble: 5 x 4
+    ##   name           total  made perc_made
+    ##   <fct>          <int> <int>     <dbl>
+    ## 1 Kevin Durant     915   495     0.541
+    ## 2 Andre Iguodala   371   192     0.518
+    ## 3 Klay Thompson   1220   575     0.471
+    ## 4 Stephen Curry   1250   584     0.467
+    ## 5 Draymond Green   578   245     0.424
+
+As can see in the table, Durant's efficiency on FG's clears high over 50%, and with a current shot volume clearing 900 at this point in the 2016-17 season, he isn't shy from firing away. With other major scorers like Stephen Curry and Klay Thompson demanding their fair share of shots, it is remarkable that Durant is able to have the volume number he is having, and the efficiency on it is enough to make any other contending team's defense shudder with terror.
+
+With the addition of Durant, the Warriors have added a major weapon who, while he is a proficient three-point shooter, is a major threat inside. As a result, This addition begs the question: are the Warriors more deadly from inside the arc or outside?
+
+The eye test and common belief definitely paints them as a deadlier three-point threat. The Dubs don't sport the famous splash brother duo without the actual numbers to back such a world-renown name. The table below shows the three-point percentages of the same five players, and what truly stands out is just how many three point attempts and makes the splash brother duo have taken at this point in the season.
+
+    ## # A tibble: 5 x 4
+    ##   name           total  made perc_made
+    ##   <fct>          <int> <int>     <dbl>
+    ## 1 Klay Thompson    580   246     0.424
+    ## 2 Stephen Curry    687   280     0.408
+    ## 3 Kevin Durant     272   105     0.386
+    ## 4 Andre Iguodala   161    58     0.360
+    ## 5 Draymond Green   232    74     0.319
+
+Curry and Thompson alone have together attempted over 1200 three-point shots, and both are shooting over 40% for the season on these attempts. Because three point shots reward an extra point, a 40% three-point field goal percentage has the equivalence of a 60% field goal percentage for a player that only takes two-point shots. The fact that both Curry and Thompson are shooting higher than 40% at such high volumes goes on to show how devastating of a threat they are from deep.
+
+That's not to say that the rest of the team members are slacking off. Durant is shooting a respectable 38.6% while clearing 100 made-threes, Iguodala is at a solid 36%, and Defensive Player of the Year candidate Draymond Green, a hybrid center who is more known for his defense than shooting, is still nearing 32% for the year. Combined together, the Dubs have made 763 threes on 1932 attempts between the five players, which is an outstanding 39% average. This is equivalent to 59% if they had shot only 2-point shots, which is well above the league average.
+
+Knowing the Warriors are such a threat from three-point territory, it makes sense that opposing teams would try and run the warriors off the three point line. Turns out, that strategy wouldn't quite be an accurate one, as the warriors are just as deadly from inside the arc as they are from outside it. Looking at the chart below, we can see that almost all the give Warriors are clearing 50% (Draymond comes close at 49%) and both Durant and Iguodala are north of 60%.
+
+    ## # A tibble: 5 x 4
+    ##   name           total  made perc_made
+    ##   <fct>          <int> <int>     <dbl>
+    ## 1 Andre Iguodala   210   134     0.638
+    ## 2 Kevin Durant     643   390     0.607
+    ## 3 Stephen Curry    563   304     0.540
+    ## 4 Klay Thompson    640   329     0.514
+    ## 5 Draymond Green   346   171     0.494
+
+Both Curry and Thompson shoot respectable percentages from inside the arc, so run them off the three-point line and you run the risk of getting burned on the inside. Place heavy emphasis on those two players, and they have the option of passing to Durant or Iguodala for extremely efficient inside the arc shooting. Together, the Warriors from inside the arc have made 1328 shots on 2402 attempts, thus coming together for a efficient 55% shooting on a higher volume of attempts compared to three-point shots.
+
+As a result of our given analysis, we see that the Warriors are deadly both outside the arc and inside the arc. Well which one is more a threat? We can look at an illustration of all shot attempts and makes of the five players and visually compare the damage done.
+
+<img src="https://github.com/YushengXia/Workout01/blob/master/images/gsw-shot-chart.png" width="80%" style="display: block; margin: auto;" />
+
+Looking at the image, we see that Durant, Curry, and Thompson are threats from all over the floor and take quite a few midrange attempts. This doesn't hold true for Iguodala and Green, both of whom take most of their shots either at the three point line or right at the basket. If we're going off flexibility, it would seem that the Dubs are a higher threat inside the arc, as they have the threat of shooting (and seemingly making) quite a few midrange jumpers and can take it closer to the basket for a higher percentage shot. However, one thing illustrated by the graphics that makes me think differently is the shape of the players' three point attempt and makes. Durant, Curry, and Thompson are all taking shots farther away from the three point. This makes their three-point attempts much more dangerous than just a typical three-point shot, as the gravity of their threats from beyond the arc force defenders to stray further from the paint in order to guard them. This actually allows for role players in their offensive system like Iguodala and Green easier looks inside, where there is not less traffic and not as many defender bodies.
+
+After heavy analysis, we can see that their are different answers to the question of whether or not Golden State is more of a threat from either beyond the arc or from inside the arc. Depending on what you think, the answer could swing both ways. And in the end, the answer probably does not matter. The Warriors are offensive juggernauts and will probably win the championships either way.
